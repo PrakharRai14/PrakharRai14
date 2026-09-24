@@ -33,7 +33,8 @@
     B.Tech CSE (AI &amp; ML) Student | Aspiring Software Engineer
     
   </text>
-  <br/>
+
+  
   <rect x="370" y="165" width="160" height="2" fill="#7dd3fc" opacity="0.8">
     <animate attributeName="width" values="0;160;160" keyTimes="0;0.6;1" dur="2.5s" fill="freeze"/>
     <animate attributeName="x" values="450;370;370" keyTimes="0;0.6;1" dur="2.5s" fill="freeze"/>
@@ -43,7 +44,7 @@
 <a href="https://github.com/PrakharRai14">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+AI-powered+Computer+Vision+Systems;Machine+Learning+%7C+Full+Stack+Development;Turning+Data+into+Decisions" alt="Typing SVG" />
 </a>
-
+</br>
 **Building AI-powered Computer Vision Systems · Machine Learning · Full Stack Development**
 
 <br/>
