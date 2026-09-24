@@ -44,8 +44,9 @@
 
 <br/>
 
-
-<img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black" />
+<a href="https://www.linkedin.com/in/prakharrai14/" target="_blank">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black" />
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=PrakharRai14&style=for-the-badge&color=7dd3fc" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/PrakharRai14?style=for-the-badge&color=7dd3fc&logo=github" alt="Followers"/>
