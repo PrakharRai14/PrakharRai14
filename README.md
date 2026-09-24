@@ -155,10 +155,10 @@ A Streamlit-based machine-learning web application that predicts sales using TV,
 
 ### 📜 Certifications
 
+- 🤖 **AI/ML with Python** — Digi Coders, Lucknow *(Aug 2026)*
+- 🌐 **Introduction to IoT and Digital Transformation** — Cisco Networking Academy × EdCreate Foundation *(Sept 2025)*
 - 🛡️ **Cybersecurity Virtual Internship (PBEL)** — IBM Developer Skills Network *(Aug 2025)*
 - ☕ **Summer Training in Core Java** — United College of Engineering & Research *(Aug 2024)*
-- 🤖 **AI/ML with Python** — Digi Coders, Lucknow *(Aug 2026)*
-- 🌐 **Introduction to IoT and Digital Transformation** — Cisco Networking Academy × EdCreate Foundation
 
 ### 🏆 Achievements
 
