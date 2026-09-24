@@ -191,22 +191,39 @@ A Streamlit-based machine-learning web application that predicts sales using TV,
 
 <br/>
 
+
+
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrakharRai14&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharRai14&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" width="48%" />
+<!-- GitHub Stats -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=PrakharRai14&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&cache_seconds=86400"
+  width="48%"
+/>
 
-<img src="https://streak-stats.demolab.com?user=PrakharRai14&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="70%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=PrakharRai14&theme=nord&no-frame=true&no-bg=true&row=1" width="90%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrakharRai14&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" width="90%" />
+<!-- Top Languages -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharRai14&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&cache_seconds=86400"
+  width="48%"
+/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/PrakharRai14/PrakharRai14/output/github-contribution-grid-snake.svg" width="90%" />
+<!-- GitHub Streak -->
+<img
+  src="https://streak-stats.demolab.com?user=PrakharRai14&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc"
+  width="70%"
+/>
+
+<br/><br/>
+
+<!-- Contribution Snake -->
+<img
+  src="https://raw.githubusercontent.com/PrakharRai14/PrakharRai14/output/github-contribution-grid-snake.svg"
+  width="90%"
+/>
 
 </div>
 
