@@ -116,19 +116,29 @@ A Streamlit-based machine-learning web application that predicts sales using TV,
 
 <br/>
 
-## Certifications
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/IBM-Cybersecurity%20Virtual%20Internship%20(PBEL)-7dd3fc?style=for-the-badge&logo=ibm&logoColor=black" />
 <br/>
 <img src="https://img.shields.io/badge/Core%20Java-Summer%20Training-7dd3fc?style=for-the-badge&logo=java&logoColor=black" />
+<br/>
+<img src="https://img.shields.io/badge/Digi%20Coders-AI%2FML%20with%20Python-7dd3fc?style=for-the-badge&logo=python&logoColor=black" />
+<br/>
+<img src="https://img.shields.io/badge/Cisco-IoT%20%26%20Digital%20Transformation-7dd3fc?style=for-the-badge&logo=cisco&logoColor=black" />
 
 </div>
 
-- 🛡️ **Cybersecurity Virtual Internship (PBEL)** — IBM (Aug 2025)
-- ☕ **Summer Training in Core Java** — United College of Engineering & Research (Aug 2024)
+### 📜 Certifications
 
+- 🛡️ **Cybersecurity Virtual Internship (PBEL)** — IBM Developer Skills Network *(Aug 2025)*
+- ☕ **Summer Training in Core Java** — United College of Engineering & Research *(Aug 2024)*
+- 🤖 **AI/ML with Python** — Digi Coders, Lucknow *(Aug 2026)*
+- 🌐 **Introduction to IoT and Digital Transformation** — Cisco Networking Academy × EdCreate Foundation
+
+### 🏆 Achievements
+
+- 🎓 **NCET — 80.50%, Grade A+** — First Attempt *(April 2026)*
+- ⭐ **Newbie — Level 3** — ServiceNow University *(934 Points, Sep 2026)*
 <br/>
 
 ## Tech Stack
