@@ -31,6 +31,7 @@
   </text>
   <text x="450" y="145" font-size="19" font-family="Verdana, Segoe UI, sans-serif" fill="#7dd3fc" text-anchor="middle">
     B.Tech CSE (AI &amp; ML) Student | Aspiring Software Engineer
+    <br/>
   </text>
   <rect x="370" y="165" width="160" height="2" fill="#7dd3fc" opacity="0.8">
     <animate attributeName="width" values="0;160;160" keyTimes="0;0.6;1" dur="2.5s" fill="freeze"/>
