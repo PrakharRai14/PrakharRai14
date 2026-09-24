@@ -39,7 +39,7 @@
 </svg>
 
 <a href="https://github.com/PrakharRai14">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+AI-powered+Computer+Vision+Systems;Machine+Learning+%7C+Full+Stack+Development;Turning+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Building+AI-powered+Computer+Vision+Systems;Machine+Learning+%7C+Full+Stack+Development;Turning+Data+into+Decisions" alt="Typing SVG" />
 </a>
 
 <br/>
