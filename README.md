@@ -197,19 +197,7 @@ A Streamlit-based machine-learning web application that predicts sales using TV,
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=PrakharRai14&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&cache_seconds=86400"
-  width="48%"
-/>
-
-<!-- Top Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharRai14&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&cache_seconds=86400"
-  width="48%"
-/>
-
-<br/><br/>
+<br/>
 
 <!-- GitHub Streak -->
 <img
@@ -226,9 +214,6 @@ A Streamlit-based machine-learning web application that predicts sales using TV,
 />
 
 </div>
-
-<br/>
-
 ## Connect With Me
 
 <div align="center">
