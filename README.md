@@ -126,28 +126,28 @@ A Streamlit-based machine-learning web application that predicts sales using TV,
 <br/>
 
 <!-- Digi Coders AI/ML with Python -->
-<a href="./assets/digicoders-certificate.png" target="_blank">
+<a href="./assets/digicoders-ai-ml-certificate.png" target="_blank">
   <img src="https://img.shields.io/badge/Digi%20Coders-AI%2FML%20with%20Python-7dd3fc?style=for-the-badge&logo=python&logoColor=black" />
 </a>
 
 <br/>
 
 <!-- NCET Employability Test -->
-<a href="https://www.linkedin.com/posts/prakharrai14_ncet-employability-learning-activity-7458951455840817152-RzSv?utm_source=share&utm_medium=member_android&rcm=ACoAAEYi0YkBzW0MNtyQVZoYH5jjM0V8RJya4bs" target="_blank">
+<a href="./assets/ncet-employability-certificate.png" target="_blank">
   <img src="https://img.shields.io/badge/NCET-Employability%20Test-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
 <br/>
 
 <!-- Core Java Summer Training -->
-<a href="https://www.linkedin.com/posts/prakharrai14_java-corejava-collections-activity-7376128460462878720-n1Z3?utm_source=share&utm_medium=member_android&rcm=ACoAAEYi0YkBzW0MNtyQVZoYH5jjM0V8RJya4bs" target="_blank">
+<a href="./assets/core-java-summer-training-certificate.png" target="_blank">
   <img src="https://img.shields.io/badge/Core%20Java-Summer%20Training-7dd3fc?style=for-the-badge&logo=java&logoColor=black" />
 </a>
 
 <br/>
 
 <!-- Cisco IoT & Digital Transformation -->
-<a href="https://www.linkedin.com/posts/prakharrai14_cisconetworkingacademy-iot-digitaltransformation-activity-7358531422082490369-Y0uG?utm_source=share&utm_medium=member_android&rcm=ACoAAEYi0YkBzW0MNtyQVZoYH5jjM0V8RJya4bs" target="_blank">
+<a href="./assets/cisco-iot-digital-transformation-certificate.png" target="_blank">
   <img src="https://img.shields.io/badge/Cisco-IoT%20%26%20Digital%20Transformation-7dd3fc?style=for-the-badge&logo=cisco&logoColor=black" />
 </a>
 
