@@ -126,7 +126,7 @@ A Streamlit-based machine-learning web application that predicts sales using TV,
 <br/>
 
 <!-- Digi Coders AI/ML with Python -->
-<a href="./assets/digicoders-ai-ml-certificate.png" target="_blank">
+<a href="./assets/digicoders-certificate.png" target="_blank">
   <img src="https://img.shields.io/badge/Digi%20Coders-AI%2FML%20with%20Python-7dd3fc?style=for-the-badge&logo=python&logoColor=black" />
 </a>
 
