@@ -43,8 +43,7 @@
 </a>
 
 <br/>
-<br/>
-<br/>
+
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black" />
 
