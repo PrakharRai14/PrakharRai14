@@ -214,6 +214,7 @@ A Streamlit-based machine-learning web application that predicts sales using TV,
 />
 
 </div>
+
 ## Connect With Me
 
 <div align="center">
