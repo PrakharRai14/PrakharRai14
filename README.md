@@ -116,7 +116,9 @@ A Streamlit-based machine-learning web application that predicts sales using TV,
 [Code](https://github.com/PrakharRai14/sales-prediction-system)
 
 <br/>
+
 ### 📜 Certifications
+
 <div align="center">
 
 <!-- IBM Cybersecurity Virtual Internship -->
