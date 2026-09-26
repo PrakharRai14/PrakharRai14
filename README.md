@@ -116,7 +116,7 @@ A Streamlit-based machine-learning web application that predicts sales using TV,
 [Code](https://github.com/PrakharRai14/sales-prediction-system)
 
 <br/>
-
+### 📜 Certifications
 <div align="center">
 
 <!-- IBM Cybersecurity Virtual Internship -->
@@ -154,7 +154,7 @@ A Streamlit-based machine-learning web application that predicts sales using TV,
 
 </div>
 
-### 📜 Certifications
+
 
 - 🤖 **AI/ML with Python** — Digi Coders, Lucknow *(Aug 2026)*
 - 🌐 **Introduction to IoT and Digital Transformation** — Cisco Networking Academy × EdCreate Foundation *(July 2025)*
